@@ -1,0 +1,20 @@
+API Recon Suite
+
+Description:
+API Recon Suite is a self-contained Python tool for discovering exposed
+and protected API endpoints on a target domain.
+
+Purpose:
+- Identify forgotten or undocumented APIs
+- Detect exposed API documentation
+- Discover risky HTTP methods
+
+Usage:
+python3 api_recon_suite.py -u https://example.com -o results.txt
+
+Requirements:
+- Python 3.8 or higher
+- Internet access on first run
+
+Legal Notice:
+Use this tool only on systems you own or have explicit permission to test.
