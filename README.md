@@ -102,3 +102,4 @@ This project demonstrates practical security engineering skills including:
 - Responsible disclosure mindset
 
 This is not a toy script. It reflects real security workflows used by professionals.
+<img width="1366" height="768" alt="Screenshot at 2026-01-04 13-11-00" src="https://github.com/user-attachments/assets/e5f364ad-6203-4b6d-afd3-8ea38e13d111" />
